@@ -3,18 +3,18 @@ A simple Python chatroom with SSL
 
 Installation:
 -------------
-    git clone https://github.com/LSDkk5/python-ssl-chat.git
+    git clone https://github.com/LSDkk5/python-chat
     pip install -r REQUIREMENTS.txt
 
 For server:
 -----------
     python server.py
-    All server settings are located in config/SERVER_CONFIG.py
+ All server settings are located in config/SERVER_CONFIG.py
 
 For clients:
 ------------
     python client.py
-    Nickname, addres, port for client app you can set in config/CLIENT_CONFIG.py
+ Nickname, addres, port for client app you can set in config/CLIENT_CONFIG.py
 
 Keys generated with:
 --------------------
