@@ -1,0 +1,8 @@
+[X]     Make server-side.
+[X]     Make client app.
+[X]     Save all information to logs file(messages, user joins, user exit etc.)
+[X]     Encrypt connection with ssl.
+[ ]     Repair curse(messages doesn't display correctly).
+[ ]     send time information from server to all clients.
+[ ]     Send all connection users information(/users command).
+[ ]     repair exit from client app(/exit command).
